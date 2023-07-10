@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeneh, an <a href="https://www.linkedin.com/in/jeneh-perry-142b7a217/">Cyber Security Professional</a>☺</h1>
+<h1>Hi, I'm Jeneh, a <a href="https://www.linkedin.com/in/jeneh-perry-142b7a217/">Cyber Security Professional</a>☺</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
